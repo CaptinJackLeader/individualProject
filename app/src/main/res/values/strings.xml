@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">점심 뭐 먹징</string>
+    <string name="title_activity_food">foodActivity</string>
+    <string name="title_activity_food2">foodActivity2</string>
+    <string name="title_activity_practice">PracticeActivity</string>
+</resources>
